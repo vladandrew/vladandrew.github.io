@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://vladandrew.github.io/sitemap.xml
