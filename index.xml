@@ -1,23 +1,41 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>ExampleSite</title>
-    <link>https://vladandrew.github.io/</link>
-    <description>Recent content on ExampleSite</description>
-    <image>
-      <url>https://vladandrew.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://vladandrew.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
-    </image>
+    <title>/home</title>
+    <link>https://adityatelange.github.io/hugo-PaperMod/</link>
+    <description>Recent content on /home</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 15 Sep 2020 11:30:03 +0000</lastBuildDate><atom:link href="https://vladandrew.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 15 Sep 2020 11:30:03 +0000</lastBuildDate><atom:link href="https://adityatelange.github.io/hugo-PaperMod/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>My 1st post</title>
-      <link>https://vladandrew.github.io/posts/my-first-post/</link>
+      <title>Running Dafny code in a Unikernel</title>
+      <link>https://adityatelange.github.io/hugo-PaperMod/posts/dafny_unikernel/</link>
       <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
       
-      <guid>https://vladandrew.github.io/posts/my-first-post/</guid>
+      <guid>https://adityatelange.github.io/hugo-PaperMod/posts/dafny_unikernel/</guid>
       <description>Desc Text.</description>
     </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://adityatelange.github.io/hugo-PaperMod/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://adityatelange.github.io/hugo-PaperMod/about/</guid>
+      <description>Free software hacker, Unikraft core contribuitor, MsC student at University Politehnica of Bucharest, Researcher at NETSYS Research Group UPB, Undergraduate Teaching Assistant.
+Contact You can reach me at
+ vlad_andrei.badoiu (at) upb.ro (Research address) badoiu.vlad (at) gmail.com  Links  NETSYS Research Group UPB Unikraft Project  </description>
+    </item>
+    
+    <item>
+      <title>Research</title>
+      <link>https://adityatelange.github.io/hugo-PaperMod/research/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://adityatelange.github.io/hugo-PaperMod/research/</guid>
+      <description>I am a MSc student at University Politehnica of Bucharest. My research interests are operating systems, networking and software security.
+Publications 2021  FlexOS: Making OS Isolation Flexible H. Lefeuvre, V-A. Bădoiu, S. Teodorescu, T. Mosnoi, C. Raiciu, P. Olivier, R. Deaconescu, F. Huici - in HotOS 2021. Unikraft: Fast, Specialized Unikernels the Easy Way Simon Kuenzer, Vlad-Andrei Bădoiu, Hugo Lefeuvre, Sharan Santhanam, Alex Jung, Gaulthier Gain, Cyril Soldani, Costin Lupu, Stefan Teodorescu, Costi Raducanu, Cristian Banu, Laurent Mathy, Razvan Deaconescu, Costin Raiciu, Felipe Huici - in Eurosys 2021  </description>
+    </item>
+    
     
   </channel>
 </rss>

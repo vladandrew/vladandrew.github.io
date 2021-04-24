@@ -2,21 +2,29 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://vladandrew.github.io/</loc>
+    <loc>https://adityatelange.github.io/hugo-PaperMod/</loc>
     <lastmod>2020-09-15T11:30:03+00:00</lastmod>
   </url><url>
-    <loc>https://vladandrew.github.io/tags/first/</loc>
+    <loc>https://adityatelange.github.io/hugo-PaperMod/tags/first/</loc>
     <lastmod>2020-09-15T11:30:03+00:00</lastmod>
   </url><url>
-    <loc>https://vladandrew.github.io/posts/my-first-post/</loc>
+    <loc>https://adityatelange.github.io/hugo-PaperMod/posts/</loc>
     <lastmod>2020-09-15T11:30:03+00:00</lastmod>
   </url><url>
-    <loc>https://vladandrew.github.io/posts/</loc>
+    <loc>https://adityatelange.github.io/hugo-PaperMod/posts/dafny_unikernel/</loc>
     <lastmod>2020-09-15T11:30:03+00:00</lastmod>
   </url><url>
-    <loc>https://vladandrew.github.io/tags/</loc>
+    <loc>https://adityatelange.github.io/hugo-PaperMod/tags/</loc>
     <lastmod>2020-09-15T11:30:03+00:00</lastmod>
   </url><url>
-    <loc>https://vladandrew.github.io/categories/</loc>
+    <loc>https://adityatelange.github.io/hugo-PaperMod/about/</loc>
+  </url><url>
+    <loc>https://adityatelange.github.io/hugo-PaperMod/categories/</loc>
+  </url><url>
+    <loc>https://adityatelange.github.io/hugo-PaperMod/research/</loc>
+  </url><url>
+    <loc>https://adityatelange.github.io/hugo-PaperMod/search/</loc>
+  </url><url>
+    <loc>https://adityatelange.github.io/hugo-PaperMod/series/</loc>
   </url>
 </urlset>
