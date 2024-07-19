@@ -2,27 +2,34 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>/home</title>
-    <link>http://localhost:1313/</link>
+    <link>https://vladandrew.github.io/</link>
     <description>Recent content on /home</description>
     <generator>Hugo -- 0.129.0</generator>
     <language>en</language>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://vladandrew.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About</title>
-      <link>http://localhost:1313/about/</link>
+      <link>https://vladandrew.github.io/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/about/</guid>
+      <guid>https://vladandrew.github.io/about/</guid>
       <description>Contact You can reach me at
 vlad_andrei.badoiu (at) upb.ro (Research address) badoiu.vlad (at) gmail.com Links NETSYS Research Group UPB </description>
     </item>
     <item>
       <title>Research</title>
-      <link>http://localhost:1313/research/</link>
+      <link>https://vladandrew.github.io/research/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/research/</guid>
-      <description>Publications 2024 FuLG: 150B Romanian Corpus for Language Model Pretraining Vlad-Andrei Bădoiu, Mihai-Valentin Dumitru, Alexandru M. Gherghescu, Alexandru Agache, Costin Raiciu [PREPRINT]
+      <guid>https://vladandrew.github.io/research/</guid>
+      <description>Publications 2024 FuLG: 150B Romanian Corpus for Language Model Pretraining Vlad-Andrei Bădoiu, Mihai-Valentin Dumitru, Alexandru M. Gherghescu, Alexandru Agache, Costin Raiciu [PREPRINT] [Dataset]
 Generating P4 Dataplanes Using LLMs Mihai Valentin Dumitru, Vlad-Andrei Badoiu, Alexandru M. Gherghescu and Costin Raiciu - Workshop: Data-Plane Programmability And Edge Network Acceleration in the AI Era (at HPSR)
 A Look Into Training Large Language Models on Next Generation Datacenters Alexandru M Gherghescu, Vlad-Andrei Bădoiu, Alexandru Agache, Mihai-Valentin Dumitru, Iuliu Vasilescu, Radu Mantu, Costin Raiciu [PREPRINT]</description>
+    </item>
+    <item>
+      <title>Teaching</title>
+      <link>https://vladandrew.github.io/teaching/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://vladandrew.github.io/teaching/</guid>
+      <description> Operating Systems Development Computer Networks I &amp;amp; II </description>
     </item>
   </channel>
 </rss>
